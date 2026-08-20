@@ -1,18 +1,125 @@
-# 💫 About Me:
-## 👨‍💻 About Me<br><br>Hi, I'm Harshit Soni 👋  <br>A passionate Front-End Developer and aspiring Full-Stack Developer from India 🇮🇳<br><br>- 🔭 I’m currently working on improving my web development skills and building real-world projects  <br>- 🤝 I’m looking to collaborate on web development and open-source projects  <br>- 🧠 I’m looking for help with advanced backend development and system design  <br>- 🌱 I’m currently learning React.js, Node.js, and full-stack development  <br>- 💬 Ask me about HTML, CSS, JavaScript, and React  <br>- ⚡ Fun fact: I love coding with chai ☕ and turning ideas into real projects  <br><br>---<br><br>## 🚀 Tech Stack<br><br>- 💻 **Languages:** C++, C, Java  <br>- 🌐 **Web Development:** HTML, CSS, JavaScript, React.js, Node.js, MongoDB  <br>- 🧰 **Frameworks & Libraries:** React.js, Express.js, Tailwind CSS, Bootstrap  <br>- ☁️ **Cloud & Tools:** AWS (Cloud Practitioner), Git, GitHub  <br><br>---<br><br>## 📌 Projects<br><br>- 🛒 Amazon Clone (HTML)<br>- ⚛️ React Projects<br>- 🤖 AI/ML Mini Projects<br>- 📦 JavaScript Practice Repository  <br><br>---<br><br>⭐ Always eager to learn, build, and grow as a developer!
+# 👋 Hi, I'm Harshit Soni
 
+### 💻 Full-Stack Developer | React.js | Node.js | TypeScript
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshit_soni12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Harshit Soni) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@HARSHIT SONI) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshit123412@gmail.com) 
+I'm a Computer Science student and developer from India 🇮🇳 passionate about building **modern, responsive, and real-world web applications**.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Harshit-23-create&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Harshit-23-create&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Harshit-23-create&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I enjoy working across the frontend and backend, building REST APIs, integrating databases, and turning ideas into functional products.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Harshit-23-create&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+
+### ⚙️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### 🧰 Tools & Technologies
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge\&logo=leaflet\&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge\&logo=apachemaven\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge\&logo=intellijidea\&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+### 🏥 Smart Emergency Healthcare & Ambulance Management System
+
+A full-stack healthcare platform designed to manage patients, hospitals, emergency services, ambulances, appointments, blood banks, pharmacies, and hospital locations.
+
+**React.js • Node.js • Express.js • MongoDB • REST API • Tailwind CSS • Leaflet.js**
+
+🔗 [Live Project](https://smarthealth-management.vercel.app/login) • [GitHub](https://github.com/Harshit-23-create/SMARTHEALTH-MANAGEMENT)
+
+---
+
+### 🤖 AI Recruitment
+
+An AI-focused recruitment platform designed around modern hiring workflows and recruitment management.
+
+**TypeScript • React.js • Node.js • REST APIs • AI/ML**
+
+🔗 [GitHub](https://github.com/Harshit-23-create/AI_RECRUITMENT)
+
+---
+
+### 🌾 AgriConnect
+
+A digital agriculture platform designed to provide farmers with useful agricultural resources, crop-related information, weather insights, marketplace services, and government scheme awareness.
+
+**JavaScript • Web Development • AI/ML**
+
+🔗 [GitHub](https://github.com/Harshit-23-create/AGRI_CONNECT)
+
+---
+
+### 💳 FinTech Wallet
+
+A modern digital wallet project focused on financial transactions and fintech application workflows.
+
+**JavaScript • Web Development • Backend • Database**
+
+🔗 [GitHub](https://github.com/Harshit-23-create/FINTECH_WALLET)
+
+---
+
+### ✈️ Fly Rank
+
+A travel-focused web application project built around flight-related information and ranking functionality.
+
+**JavaScript • Web Development**
+
+🔗 [GitHub](https://github.com/Harshit-23-create/FLY_RANK)
+
+---
+
+# 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Harshit-23-create)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([https://linkedin.com/in/HarshitSoni](https://www.linkedin.com/in/harshit-soni-softwaredeveloper/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://instagram.com/harshit_soni12)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:harshit123412@gmail.com)
+
+---
+📊 GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Harshit-23-create&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshit-23-create&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180"/> </p>
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harshit-23-create&theme=github-compact&hide_border=true" width="95%"/> </p>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Harshit-23-create&style=for-the-badge&color=blue" alt="Profile Views"/> </p>
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Harshit-23-create\&style=flat-square)
